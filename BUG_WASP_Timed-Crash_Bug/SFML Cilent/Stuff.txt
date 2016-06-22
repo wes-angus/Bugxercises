@@ -1,0 +1,22 @@
+//sprintf(message,"%f",xTrans);
+//char message[BUFLEN/2];
+//char message2[BUFLEN/2]="!";
+//char message3[BUFLEN/2];
+//char messagef[BUFLEN];
+//sprintf(message,"%f", O1->x);
+//sprintf(message3,"%f", O1->z);
+//strcpy(messagef,message);
+//strcat(messagef,message2);
+//strcat(messagef,message3);
+
+// strcpy(, );
+/*if (sendto(soc,messagef,strlen(messagef),0,(struct sockaddr *)
+	&si_other,slen)==SOCKET_ERROR)
+	{
+		printf("failed to send");
+		exit(EXIT_FAILURE);
+	}
+	printf("SENT: %s\n", messagef);
+
+	memset(messagef,'\0',strlen(messagef));*/
+	//std::cout<<strlen(sendingMsg)<<"=length"<<std::endl;
